@@ -12,3 +12,5 @@ class Warrior extends Character
         return $status;
     }
 }
+
+
